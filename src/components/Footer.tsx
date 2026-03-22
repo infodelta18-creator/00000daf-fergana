@@ -170,6 +170,7 @@ export default function Footer() {
             <p className="text-foreground/70 text-sm">
               © {new Date().getFullYear()} DaF Sprachzentrum.{" "}
               {t("footer.rights")}
+Made by Netlivy®
             </p>
             <Link
               href="/maxfiylik"
